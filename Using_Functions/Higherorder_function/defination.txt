@@ -1,0 +1,8 @@
+1.A function that takes function as an input and returns function as an output
+Why?
+->Composition 
+ 1.creating smaller functions that take care of certain piece of logic.
+ 2.composing different functions by using different smaller functions
+->Reduce Bugs
+->code gets easier to read and understand
+

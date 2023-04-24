@@ -1,0 +1,2 @@
+1.func doSomething(a int, b int) int
+2.func doSomething(n int) int

@@ -1,0 +1,4 @@
+1.A function calls itself direct or indirect means is called recursion.
+2.The function keeps calling itself until it reaches base case
+3.Used to solve the problem where the solution is dependent on the smaller instances
+of same problem

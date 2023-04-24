@@ -1,0 +1,21 @@
+Address and dereference operator
+
+&operator -> The address of a variable can be obtained by the preceding the name of a variable with
+ampersand sign (&),Known as address-of operator.
+
+*operator -> It is known as dereference operator.when placed before
+an address,it returns the value of the address.
+
+declaring a pointer 
+var <pointer_name> *<data_type>
+
+var x *int
+
+call by value -> function is called by directly passing 
+                 the value of variable as an argument.
+                 -The parameter is copied in to  another location of your memory
+                 -so,when accessing or modifying the variable within your function,only
+                 the copy is accessed or modified and the original value is never modified.
+
+passing by reference -> Here the address of the variable is passed
+                        into the function call as parameter
