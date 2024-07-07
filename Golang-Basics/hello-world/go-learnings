@@ -1,0 +1,15 @@
+Go Language Overview:
+
+Compiled Language: Go is a programming language that is compiled. This means that the code you write is transformed into machine language instructions that the computer can execute directly.
+
+Go Tool Chain: The tools that perform this transformation are collectively referred to as the Go tool chain.
+
+Command Line Access: These tools are accessed using the go command on the command line, which includes several subcommands to perform different tasks.
+
+Key Subcommand - run:
+
+go run: One of the simplest and most commonly used subcommands is run.
+
+Functionality: This command compiles the source code (files ending in .go), links it with any necessary libraries, and then executes the resulting executable file.
+
+In summary, the go run command allows you to quickly compile and run Go programs from source files in a single step.
